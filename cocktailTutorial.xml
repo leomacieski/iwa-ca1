@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <menu>
     <section name="Espresso Martini">
-        <tutoria>
-            <glass>
-                Martini glass
-            </glass>
-            <ingredients>
-                Vodka;
-                Kahlua;
-                Double espresso;
-                Baileys (optional)
-            </ingredients>
-            <how2prepare>
-                in a cocktail shaker with ice, add one shot of vodka, one shot of kahlua and double espresso and shake it for 20 seconds;
-                pour the mix on the martini glass;
-                garnish with a couple of coffee beans on top and baileys to extra flavour.
-            </how2prepare>
-        </tutoria>
+        <glass>
+            Martini glass
+        </glass>
+        <ingredients>
+            Vodka;
+            Kahlua;
+            Double espresso;
+            Baileys (optional)
+        </ingredients>
+        <how2prepare>
+            in a cocktail shaker with ice, add one shot of vodka, one shot of kahlua and double espresso and shake it for 20 seconds;
+            pour the mix on the martini glass;
+            garnish with a couple of coffee beans on top and baileys to extra flavour.
+        </how2prepare>
     </section>
     <section name="Cosmopolitan">
         <glass>
