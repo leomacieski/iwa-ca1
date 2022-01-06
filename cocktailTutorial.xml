@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <menu>
     <section name="Espresso Martini">
+        <type>
         <glass>
             Martini glass
         </glass>
@@ -15,8 +16,10 @@
             pour the mix on the martini glass;
             garnish with a couple of coffee beans on top and baileys to extra flavour.
         </how2prepare>
+    </type>
     </section>
     <section name="Cosmopolitan">
+        <type>
         <glass>
             Martini glass
         </glass>
@@ -32,8 +35,10 @@
             pour the mix on the martini glass;
             garnish with a slice of lime.
         </how2prepare>
+    </type>
     </section>
     <section name="Mojito">
+        <type>
         <glass>
             Zombie glass
         </glass>
@@ -48,8 +53,10 @@
             In the zombie glass add 5 leaves of mint, 4 wedges of lime and one cap of sugar syrup; smash it to release the lime juice, add a couple of scoops of crushed ice and one shot of bacardi and stir it; add a couple more scoops of crushed ice and top up with sprite;
             garnish on top with a slice of lemon and mints.
         </how2prepare>
+    </type>
     </section>
     <section name="Pink Perfection">
+        <type>
         <glass>
             Goblet glass
         </glass>
@@ -63,8 +70,10 @@
             In the goblet glass add 4 to 5 raspberry and one cap of berry syrup and smash it; add a couple of ice cubes and 2 shots of pink gin and stir it; add more ice and top up with sprite or soda water;
             garnish with your preferable berrys (strawberry, blueberry, cranberry, raspberry).
         </how2prepare>
+    </type>
     </section>
     <section name="Old Fashioned">
+        <type>
         <glass>
             Whisky glass
         </glass>
@@ -78,8 +87,10 @@
             In the whisky glass add one teaspoon of brown sugar and a splash of water, 1-2 dashes of angostura bitters and mixed until the sugar dissolve; add one shot of Scotch or Bourbon, ice and stir it; top up with sprite or soda water;
             garnish with an orange peel.
         </how2prepare>
+    </type>
     </section>
     <section name="Whisky Sour">
+        <type>
         <glass>
             Whisky glass
         </glass>
@@ -95,5 +106,6 @@
             pour the mix into the whisky glass and add a few cubes of ice;
             garnish with wedge of lemon.
         </how2prepare>
+    </type>
     </section>
 </menu>
